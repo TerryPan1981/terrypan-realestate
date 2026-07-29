@@ -1,0 +1,6 @@
+# 本機開發用的簡易伺服器，不需要進版控
+serve.ps1
+
+.DS_Store
+Thumbs.db
+desktop.ini
