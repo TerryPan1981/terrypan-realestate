@@ -4,3 +4,6 @@ serve.ps1
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 本機開發設定（含絕對路徑），不進版控
+.claude/

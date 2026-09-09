@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="房仲好鄰居 阿睿">
+  <rect width="64" height="64" rx="14" fill="#FF7403"/>
+  <path d="M32 13 51 28.5V50a2 2 0 0 1-2 2H15a2 2 0 0 1-2-2V28.5L32 13Z" fill="#FFF0E5"/>
+  <path d="M23 32h18M32 32v14" stroke="#C35B07" stroke-width="5" stroke-linecap="round"/>
+</svg>

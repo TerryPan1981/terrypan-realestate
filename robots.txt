@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 日後改自訂網域時，這行要一起換
+Sitemap: https://terrypan1981.github.io/terrypan-realestate/sitemap.xml
