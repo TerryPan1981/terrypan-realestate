@@ -6,7 +6,7 @@
    留空 = 按鈕不顯示，避免產生死連結。
    例：const BOOKING_URL = 'https://terry-booking.vercel.app/card/booking';
    ===================================================================== */
-const BOOKING_URL = '';
+const BOOKING_URL = 'https://terry-booking.vercel.app/card/booking';
 /* ===================================================================== */
 
 (function () {
